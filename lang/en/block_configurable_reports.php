@@ -121,6 +121,9 @@ $string['filterusers_summary'] = 'Filter a user (by id) from system user list';
 $string['filterenrolledstudents'] = 'Enrolled course students';
 $string['filterenrolledstudents_summary'] = 'Filter a user (by id) from enrolled course students';
 $string['student'] = 'Student';
+$string['cohort'] = 'cohort';
+$string['filtercohort'] = 'cohort';
+$string['filtercohort_summary'] = 'Filter cohorts';
 
 // Calcs
 $string['nocalcsyet'] = "No calculations yet";
